@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+My name is Alex! I am a **Junior at PSU** majoring in **SRA** with a concentration in **Cyber and Information Security**. 
+
 <!--
 **Alexander-Marencel/Alexander-Marencel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
